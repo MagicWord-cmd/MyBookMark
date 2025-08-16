@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gZisv0LToNcyDYz6pqxV-2" value="第一章：如何制作一个游戏" style="swimlane;whiteSpace=wrap;html=1;fontSize=24;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="-340" width="1586.48" height="1210" as="geometry">
+          <mxGeometry x="-110" y="-340" width="1640" height="1220" as="geometry">
             <mxRectangle x="30" y="-180" width="280" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -73,7 +73,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gZisv0LToNcyDYz6pqxV-36" value="&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: left;&quot;&gt;高度概念化实例《安魂曲：复仇天使》&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fontSize=24;startSize=23;" parent="gZisv0LToNcyDYz6pqxV-2" vertex="1" collapsed="1">
-          <mxGeometry x="400" y="125" width="280" height="40" as="geometry">
+          <mxGeometry x="398" y="90" width="280" height="40" as="geometry">
             <mxRectangle x="400" y="125" width="350" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -81,8 +81,8 @@
           <mxGeometry x="5" y="25" width="340" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gZisv0LToNcyDYz6pqxV-59" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;用来确认功能和流程确认的菜单图&lt;/span&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fontSize=24;startSize=23;align=center;" parent="gZisv0LToNcyDYz6pqxV-2" vertex="1" collapsed="1">
-          <mxGeometry x="400" y="200" width="280" height="40" as="geometry">
-            <mxRectangle x="400" y="200" width="890" height="620" as="alternateBounds" />
+          <mxGeometry x="398" y="180" width="280" height="40" as="geometry">
+            <mxRectangle x="750" y="160" width="890" height="620" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gZisv0LToNcyDYz6pqxV-60" value="&lt;b&gt;启动界面&lt;/b&gt;&lt;div&gt;标题 &amp;amp; 底图&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="gZisv0LToNcyDYz6pqxV-59" vertex="1">

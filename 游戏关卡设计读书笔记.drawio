@@ -552,9 +552,9 @@
             <mxPoint x="360" y="330.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iSkglmZPmUTQ2_oijmPz-143" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;关卡任务流程图实例（游戏世界说明图）&lt;/span&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fontSize=24;startSize=23;align=center;direction=east;" parent="gZisv0LToNcyDYz6pqxV-2" vertex="1">
-          <mxGeometry x="410" y="320" width="1160" height="720" as="geometry">
-            <mxRectangle x="400" y="320" width="280" height="40" as="alternateBounds" />
+        <mxCell id="iSkglmZPmUTQ2_oijmPz-143" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;关卡任务流程图实例（游戏世界说明图）&lt;/span&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fontSize=24;startSize=23;align=center;direction=east;" parent="gZisv0LToNcyDYz6pqxV-2" vertex="1" collapsed="1">
+          <mxGeometry x="410" y="320" width="280" height="40" as="geometry">
+            <mxRectangle x="410" y="320" width="1160" height="720" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iSkglmZPmUTQ2_oijmPz-228" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="iSkglmZPmUTQ2_oijmPz-143" vertex="1">
